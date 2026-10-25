@@ -1,0 +1,7 @@
+# GitHub 100MB file limit exclusion
+dataset/ECG/mitbih_train.csv
+
+# Python and Jupyter artifacts
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
